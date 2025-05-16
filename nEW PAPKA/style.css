@@ -1,0 +1,16 @@
+.B1{
+    width: 1920px;
+    height: 1295px;
+    background-image: url(ASSETS/bg1.jpg);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+.es{
+    color: black;
+}
+.ul1{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
